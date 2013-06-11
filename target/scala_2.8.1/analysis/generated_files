@@ -1,0 +1,4 @@
+#Generated Classes
+#Tue Jun 11 04:48:40 ART 2013
+src\\main\\scala\\bootstrap\\liftweb\\Boot.scala=target\\scala_2.8.1\\classes\\bootstrap\\liftweb\\Boot.class;target\\scala_2.8.1\\classes\\bootstrap\\liftweb\\Boot$$anonfun$boot$1.class;target\\scala_2.8.1\\classes\\bootstrap\\liftweb\\Boot$$anonfun$1.class;target\\scala_2.8.1\\classes\\bootstrap\\liftweb\\Boot$$anonfun$boot$2.class
+src\\main\\scala\\com\\javier\\snippet\\HelloWorld.scala=target\\scala_2.8.1\\classes\\com\\javier\\snippet\\HelloWorld.class

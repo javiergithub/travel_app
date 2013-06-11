@@ -1,0 +1,22 @@
+*lift is org.lifty lifty 1.6.1
+lift create project-blank
+reload
+update
+jetty
+jetty-stop
+lift create snippet
+update
+jetty
+jetty-stop
+jetty-run
+~ prepare-webapp 
+jetty-run
+~ prepare-webapp 
+jetty-stop
+exit
+jetty-run
+jetty-stop
+exit
+jetty-run
+jetty-stop
+exit

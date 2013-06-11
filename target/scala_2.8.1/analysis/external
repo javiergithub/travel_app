@@ -1,0 +1,6 @@
+#External Dependencies
+#Tue Jun 11 04:48:40 ART 2013
+C\:\\principiante\\lift\\project\\boot\\scala-2.8.1\\lib\\scala-library.jar=src\\main\\scala\\bootstrap\\liftweb\\Boot.scala;src\\main\\scala\\com\\javier\\snippet\\HelloWorld.scala
+C\:\\principiante\\lift\\lib_managed\\scala_2.8.1\\compile\\lift-webkit_2.8.1-2.3-RC3.jar=src\\main\\scala\\bootstrap\\liftweb\\Boot.scala
+C\:\\principiante\\lift\\lib_managed\\scala_2.8.1\\compile\\lift-util_2.8.1-2.3-RC3.jar=src\\main\\scala\\bootstrap\\liftweb\\Boot.scala;src\\main\\scala\\com\\javier\\snippet\\HelloWorld.scala
+C\:\\Archivos\ de\ programa\\Java\\jre6\\lib\\rt.jar=src\\main\\scala\\bootstrap\\liftweb\\Boot.scala;src\\main\\scala\\com\\javier\\snippet\\HelloWorld.scala
