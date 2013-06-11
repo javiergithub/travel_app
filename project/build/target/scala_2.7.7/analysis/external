@@ -1,5 +1,5 @@
 #External Dependencies
-#Tue Jun 11 04:48:28 ART 2013
-C\:\\principiante\\lift\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.7\\ivy_2.7.7-0.7.7.jar=Project.scala
-C\:\\principiante\\lift\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.7\\sbt_2.7.7-0.7.7.jar=Project.scala
-C\:\\principiante\\lift\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=Project.scala
+#Tue Jun 11 06:05:41 ART 2013
+C\:\\Documents\ and\ Settings\\MARIA\\Mis\ documentos\\GitHub\\travel_app\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=Project.scala
+C\:\\Documents\ and\ Settings\\MARIA\\Mis\ documentos\\GitHub\\travel_app\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.7\\sbt_2.7.7-0.7.7.jar=Project.scala
+C\:\\Documents\ and\ Settings\\MARIA\\Mis\ documentos\\GitHub\\travel_app\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.7\\ivy_2.7.7-0.7.7.jar=Project.scala

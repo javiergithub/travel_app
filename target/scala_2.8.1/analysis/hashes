@@ -1,4 +1,4 @@
 #Source Hashes
-#Tue Jun 11 04:48:40 ART 2013
-src\\main\\scala\\bootstrap\\liftweb\\Boot.scala=9b3e8d71ce6bbf42e58c29a370de67559d68debd
-src\\main\\scala\\com\\javier\\snippet\\HelloWorld.scala=b0d4e856e219257ff783224f4fa5121eedd82e34
+#Tue Jun 11 06:06:13 ART 2013
+src\\main\\scala\\bootstrap\\liftweb\\Boot.scala=b181719ccb74c969852e8c3257694719670b0cb2
+src\\main\\scala\\com\\javier\\snippet\\HelloWorld.scala=472ce85aebafa2a444d5d63f2b99a570835d2c9d

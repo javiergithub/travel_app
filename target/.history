@@ -20,3 +20,6 @@ exit
 jetty-run
 jetty-stop
 exit
+jetty-run
+jetty-stop
+exit
